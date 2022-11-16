@@ -1,0 +1,3 @@
+/mnt/d/1000jiechen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/1000jiechen/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/1000jiechen/cmake-build-debug/CMakeFiles/1000.dir
