@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1000.dir/1000jiechen/jiechen.cpp.o CMakeFiles/1000.dir/1000jiechen/StdAfx.cpp.o  -o 1000 
